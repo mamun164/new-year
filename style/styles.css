@@ -106,3 +106,71 @@ line-height: 76px;
     background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
     background-image: url('../images/watch.png');
 }
+.g-title{
+    padding-top: 150px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    color: #FFFFFF;
+}
+.btn-second{
+    margin-left: 20px;
+    
+}
+
+/* footer style*/
+.footer{
+    height: 580px;
+    background-color: #151414;
+    margin: 125px 150px 100px;
+    
+}
+.footer-items{
+    display: flex;
+    text-align: left;
+    
+}
+.future-title{
+    font-weight: 700;
+    font-size: 45px;
+    padding-top: 150px;
+    color: #FFFFFF;
+    padding-left: 230px;
+
+}
+.future-discription{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-left: 150px;
+   
+  
+    width: 50%;
+}
+.subscribe-title{
+    font-weight: 700;
+    font-size: 45px;
+    padding-top: 150px;
+    color: #FFFFFF;
+    padding-right: 200px;
+    padding-bottom: 10px;
+   
+}
+.social-media{
+    margin-left: 150px;
+    padding-top: 20px;
+    
+}
+.input-email{
+    background-color: #151414;
+    color: #FFFFFF;
+    border: 0.1px solid #FFFFFF;
+    padding: 8px;
+}
+.btn-subscrib{
+    margin-top: 15px;
+    background-color: white;
+    color:#F15B22;
+    padding: 8px;
+
+}
