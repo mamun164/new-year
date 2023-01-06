@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+
+/* banner style */
+.header{
+    background-image: url('../images/banner/banner2.png');
+  
+    background-repeat: no-repeat;
+   margin-left: 150px;
+    height: 800px;
+}
+.title-description{
+    margin-left: 845px;
+    margin-top: 216px;
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    
+}
+.banner-title{
+font-weight: 700;
+font-size: 65px;
+text-align: right;
+line-height: 76px;
+}
+.banner-description{
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 26px; 
+   text-align: right;
+}
+.btn-primary{
+    background-color: orangered;
+    color: #FFFFFF;
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    margin-left: 1210px;
+    margin-top: 580px;
+    font-weight: 600;
+    font-size: 20px;
+   
+}
+/* main */
+.fast-section{
+    display: flex;
+    margin-top: 200px;
+    gap: 100px;
+    margin-left: 200px;
+    
+}
+.section-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46px;
+    color: #151414;
+    margin-top: 300px;
+    margin-bottom: 25px;
+   
+}
+.section-description{
+    font-weight: 300;
+    size: 16px;
+    color: #444343;
+   word-wrap: break-word;
+    line-height: 26px;
+    width: 416px;
+    height: 100px;
+    
+}
+.point{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-top: 20px;
+}
+
+/* second section style */
+.skill-card{
+    display: flex;
+    justify-content: space-evenly;
+}
+.plans-title{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-top: 130px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.skill{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+/* gradient section style */
+.gradient{
+    margin-top: 130px;
+    
+    margin-left: 400px;
+    width: 1140px;
+    height: 300px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    background-image: url('../images/watch.png');
+}
